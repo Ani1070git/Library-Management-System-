@@ -1,7 +1,7 @@
 # 📚 Library-Management-System
 A feature-rich Library Management Web Application built using Django, Tailwind CSS, and Razorpay. This platform enables seamless management of books, users, and transactions for both students and administrators.
 
-# Features
+# 🚀 Features
 ## General User
 Browse and search books by title, author, or category
 
